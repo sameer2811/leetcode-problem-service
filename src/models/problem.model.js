@@ -34,7 +34,7 @@ const problemSchema = new mongoose.Schema({
         startSnippet: {
             type: String,
         },
-        middleSnippet: {
+        userSnippet: {
             type: String
         },
         endSnippet: {
